@@ -24,3 +24,5 @@ hs_err_pid*
 
 .idea/
 order-generator/target/
+aws-sdk-kinesis-producer/target
+*.iml
